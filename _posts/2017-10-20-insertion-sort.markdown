@@ -14,7 +14,7 @@ The pointer moves on and in every iteration; places the new element in its corre
 
 The sorted subarray grows and at the end, the array is sorted. 
 
-Time complexity: *O($\sqrt{n^2}$)*
+Time complexity: *O(n^2)*
 
 Here is the link of my C++ implementation of Insertion Sort: [Insertion Sort](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/2.InsertionSort.cpp)
 
