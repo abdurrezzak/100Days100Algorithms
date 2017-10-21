@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Abdurrezzak Efe's Blog # add banner title
-banner-desc: An algorithm lover's work # add banner description
+banner-desc: An algorithm lover's work! # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
