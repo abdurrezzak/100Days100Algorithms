@@ -15,5 +15,5 @@ If the first probability is the case, we make a recursive call to left part of t
 
 At the end, if the algorithm does not encounter the element in the array, it returns -1.
 
-Here is the link of my C++ implementation of binary search: [Binary Search] (https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/1.BinarySearch.cpp)
+Here is the link of my C++ implementation of binary search: [Binary Search](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/1.BinarySearch.cpp)
 
