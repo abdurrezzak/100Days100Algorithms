@@ -9,7 +9,7 @@ tag: [Travel]
 
 Binary Search algorithm is a divide and conquer algorithm that performs efficient search on sorted arrays. 
 
-The algorithms first looks for the middle element and compares it with the element we are searching. If the middle element is the same with the desired element, algorithm returns. Otherwise, there emerges two probabilities. Eithe middle element is bigger than the element we are searching or it is smaller. 
+The algorithm first looks for the middle element and compares it with the element we are searching. If the middle element is the same with the desired element, algorithm returns. Otherwise, there emerges two probabilities: Eithe middle element is bigger than the element we are searching, or it is smaller. 
 
 If the first probability is the case, we make a recursive call to left part of the array. Otherwise, we make a recursive call on the right side of the array.
 
