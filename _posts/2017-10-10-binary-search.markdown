@@ -7,7 +7,13 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Travel]
 ---
 
+Binary Search algorithm is a divide and conquer algorithm that performs efficient search on sorted arrays. 
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+The algorithms first looks for the middle element and compares it with the element we are searching. If the middle element is the same with the desired element, algorithm returns. Otherwise, there emerges two probabilities. Eithe middle element is bigger than the element we are searching or it is smaller. 
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+If the first probability is the case, we make a recursive call to left part of the array. Otherwise, we make a recursive call on the right side of the array.
+
+At the end, if the algorithm does not encounter the element in the array, it returns -1.
+
+Here is the link of my C++ implementation of binary search: [Binary Search] (https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/1.BinarySearch.cpp)
+
