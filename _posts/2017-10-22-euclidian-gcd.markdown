@@ -16,4 +16,4 @@ The algorithm has two steps:
     
 Time complexity: *O(log(ab))*
 
-Here is the link of my C++ implementation of Euclidian GCD: [Euclidian GCD](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/3.EuclidianGCD.cpp)
+Here is the link of my C++ implementation of Euclidian GCD: [Euclidian GCD](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/4.EuclidianGCD.cpp)
