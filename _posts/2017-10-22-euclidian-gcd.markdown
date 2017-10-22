@@ -14,6 +14,6 @@ The algorithm has two steps:
     ->If yes, returns b immediately
     ->If not, tries the same for b and a%b
     
-Time complexity: *O(log(ab))*
+Time complexity: *O(log(ab))* (It happens when a and b are Fibonacci numbers that are consecutive)
 
 Here is the link of my C++ implementation of Euclidian GCD: [Euclidian GCD](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/4.EuclidianGCD.cpp)
