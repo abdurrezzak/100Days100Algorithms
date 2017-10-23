@@ -13,4 +13,4 @@ The algorithm takes an array and starts from its first index. Finds the smallest
 
 Time complexity: *O(n^2)*
 
-Here is the link of my C++ implementation of Merge Sort: [Merge Sort](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/5.SelectionSort.cpp)
+Here is the link of my C++ implementation of Selection Sort: [Selection Sort](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/5.SelectionSort.cpp)
