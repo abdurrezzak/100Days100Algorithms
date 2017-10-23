@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day-5: Selection Sort"
-img: selectionsort.jpg # Add image post (optional)
+img: rsz_5selectionsort.jpg # Add image post (optional)
 date: 2017-10-23 12:54:00 +0300
 description: 
 tag: [Sorting]
