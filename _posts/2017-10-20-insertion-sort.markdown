@@ -4,7 +4,7 @@ title: "Day-2: Insertion Sort"
 img: rsz_2insertionsort.jpg # Add image post (optional)
 date: 2017-10-20 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel]
+tag: [Sorting]
 ---
 
 Insertion sort algorithm is a sorting algorithm that is desirable when the data size is relatively smaller or nearly sorted. 
