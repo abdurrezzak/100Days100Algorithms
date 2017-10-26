@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day-8: Heapsort"
+img: rsz_8heapsort.png # Add image post (optional)
+date: 2017-10-26 12:54:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Sorting]
+---
+HeapSort is another popular sorting algorithm.
+
+Heapsort basically uses a heap data structure to reach to the minimum or the maximum element at any time with O(1). However, to have the minimum element at everytime, we need Heapify operation which basically takes O(logn) time. 
+
+Applyin the operation for every item in an array, we can sort the array.
+
+Time complexity: *O(nlogn)*
+
+Here is the link of my C++ implementation of Heapsort: [Heapsort](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/8.HeapSort.cpp)
