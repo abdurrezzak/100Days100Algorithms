@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day-12: Breadth First Search(BFS)"
-img: rsz_12 bfs.jpg # Add image post (optional)
+img: rsz_12BFS.jpg # Add image post (optional)
 date: 2017-10-30 12:54:00 +0300
 description: 
 tag: [Graphs]
