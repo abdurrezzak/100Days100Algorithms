@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Day-14: Longest Common Subsequence(LCS)"
+img: rsz_14lcs.jpg # Add image post (optional)
+date: 2017-11-01 12:54:00 +0300
+description: 
+tag: [Dynamic Programming]
+---
+LCS is one of the most popular instances of effective use of dynamic programming.
+Although it is possible to easily implement a solution to LCS using recursion, my solution uses an iterative way. 
+
+LCS made scientists able to get further in gene alignments with some additions to its structure.
+
+Time complexity: *O(nm)* where *n* is the length of the first string and *m* is the length of the second one.
+
+Here is the link of my C++ implementation of LCS: [LCS](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/14.LCS.cpp)
