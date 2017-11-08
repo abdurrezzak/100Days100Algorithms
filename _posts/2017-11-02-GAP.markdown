@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Day-15: Needleman-Wunsch Algorithm"
+img: rsz_15gap.jpg # Add image post (optional)
+date: 2017-11-02 12:54:00 +0300
+description: 
+tag: [Dynamic Programming]
+---
+Needleman-Wunsch algorithm is a little different from LCS as it allows mismatches. The algorithms takes two strings and aligns them by repecting the penalty scores and reward score, alignes them.
+
+Time complexity: *O(nm)* where *n* is the length of the first string and *m* is the length of the second one.
+
+Here is the link of my C++ implementation of Needleman- Wunsch: [Needleman - Wunsch](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/15.GAP.cpp)
