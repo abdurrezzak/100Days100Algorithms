@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Day-17: 0/1 Knapsack Problem"
+img: rsz_17knapsack.jpg # Add image post (optional)
+date: 2017-11-04 12:54:00 +0300
+description: 
+tag: [Dynamic Programming]
+---
+0/1 Knapsack problem is one of the most popular optimization problems out there. 
+
+The problem considers a knapsack and n items that have different weights and different values. 
+
+The knapsack can hold elements whose total makes *M kg* or less.
+
+Dynamic programming helps us find the biggest value that can be reached.
+
+Time complexity: *O(nm)* (In an iterative solution, the complexity can be reduced to linear time by just storing last two rows)
+
+Here is the link of my C++ implementation of Knapsack: [0/1 Knapsack](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/17.Knapsack.cpp)
