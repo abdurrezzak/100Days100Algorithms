@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day-16: Smith - Waterman Algorithm"
+img: rsz_16lap.jpg # Add image post (optional)
+date: 2017-11-03 12:54:00 +0300
+description: 
+tag: [Dynamic Programming]
+---
+Smith - Waterman algorithm is the version of Needleman - Wunsch that computes the best *local* alignment.
+
+The solution changes with just one more predicate added to recurrence relation of dynamic table. 
+
+The algorithm simply gives free rides to the starting point that allows it to never get under 0.
+
+Time complexity: *O(nm)* where *n* is the length of the first string and *m* is the length of the second one.
+
+Here is the link of my C++ implementation of Smith- Waterman: [Smith- Waterman](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/16.LAP.cpp)
