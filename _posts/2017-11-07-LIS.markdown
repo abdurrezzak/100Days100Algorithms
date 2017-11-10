@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Day-20: Longest Increasing Subsequence"
+img: rsz_20longestincreasingsubsequence.jpg # Add image post (optional)
+date: 2017-11-07 12:54:00 +0300
+description: 
+tag: [Dynamic Programming]
+---
+LIS is a commonly asked interview problem.
+
+The naive approach would find the sequence by trying every possible subsequence which takes a lot of time.
+
+A better approach is surely Dynamic Programming. 
+
+The DP solution takes the array, copies it, sorts the copied version and finds the longest common subsequence of both arrays which happens to be the answer we are looking for!
+
+Time complexity: *O(n^2)* 
+
+Here is the link of my C++ implementation of LIS: [LIS](https://github.com/abdurrezzak/100-Days-100-Algorithms-/blob/master/20.LongestIncreasingSubsequence.cpp)
