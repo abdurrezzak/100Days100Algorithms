@@ -4,7 +4,7 @@ title: "Day-21: Prim's Minimum Spanning Tree Algorithm"
 img: rsz_21primalgorithm.png # Add image post (optional)
 date: 2017-11-08 12:54:00 +0300
 description: 
-tag: [Greedy][Graphs]
+tag: [Greedy]
 ---
 
 Prim's MST algorithm is a good example of how powerful Greedy problem solving paradigm can be. 
