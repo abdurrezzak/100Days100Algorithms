@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day-22: Kruskal's Minimum Spanning Tree Algorithm"
-img: rsz_22kruskalalgorithm.png # Add image post (optional)
+img: rsz_22kruskalalgorithm.jpg # Add image post (optional)
 date: 2017-11-09 12:54:00 +0300
 description: 
 tag: [Greedy]
